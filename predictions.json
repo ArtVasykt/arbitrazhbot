@@ -1,0 +1,92 @@
+﻿[
+    {
+        "date": "10 апреля 21:45",
+        "first_command": "Халл Сити",
+        "pfc": "/assets/images/c4/c4e837_54.png",
+        "prediction": "Победа 1 (2.06) ",
+        "psc": "/assets/images/9d/9d7cb5_72.png",
+        "second_command": "Уиган Атлетик",
+        "tags": "Турнир:#Футбол.Англия"
+    },
+    {
+        "date": "10 апреля 21:45",
+        "first_command": "Бирмингем Сити",
+        "pfc": "/assets/images/df/dffb0e_67.png",
+        "prediction": "Победа 2 (2.16) ",
+        "psc": "/assets/images/78/781226_811.png",
+        "second_command": "Шеффилд Юнайтед",
+        "tags": "Турнир:#Футбол.Англия"
+    },
+    {
+        "date": "10 апреля 21:45",
+        "first_command": "Ротерем Юнайтед",
+        "pfc": "/assets/images/b4/b46c8b_403.png",
+        "prediction": "Победа 2 (1.68) ",
+        "psc": "/assets/images/01/01a1e3_53.png",
+        "second_command": "Астон Вилла",
+        "tags": "Турнир:#Футбол.Англия"
+    },
+    {
+        "date": "10 апреля 22:00",
+        "first_command": "Манчестер Юнайтед",
+        "pfc": "/assets/images/f5/f518af_45.png",
+        "prediction": "Победа 2 (2) ",
+        "psc": "/assets/images/2f/2f0408_118.png",
+        "second_command": "Барселона",
+        "tags": "Турнир:#Футбол.Клубы"
+    },
+    {
+        "date": "10 апреля 22:00",
+        "first_command": "Манчестер Юнайтед",
+        "pfc": "/assets/images/f5/f518af_45.png",
+        "prediction": "Обе забьют: Да (1.666) ",
+        "psc": "/assets/images/2f/2f0408_118.png",
+        "second_command": "Барселона",
+        "tags": "Турнир:#Футбол.Клубы"
+    },
+    {
+        "date": "10 апреля 22:00",
+        "first_command": "Манчестер Юнайтед",
+        "pfc": "/assets/images/f5/f518af_45.png",
+        "prediction": "ТБ(2.5) (1.84) ",
+        "psc": "/assets/images/2f/2f0408_118.png",
+        "second_command": "Барселона",
+        "tags": "Турнир:#Футбол.Клубы"
+    },
+    {
+        "date": "10 апреля 22:00",
+        "first_command": "Аякс",
+        "pfc": "/assets/images/34/346896_316.png",
+        "prediction": "Победа 2 (2.32) ",
+        "psc": "/assets/images/0d/0dd4c3_159.png",
+        "second_command": "Ювентус",
+        "tags": "Турнир:#Футбол.Клубы"
+    },
+    {
+        "date": "10 апреля 22:00",
+        "first_command": "Аякс",
+        "pfc": "/assets/images/34/346896_316.png",
+        "prediction": "Обе забьют: Да (1.75) ",
+        "psc": "/assets/images/0d/0dd4c3_159.png",
+        "second_command": "Ювентус",
+        "tags": "Турнир:#Футбол.Клубы"
+    },
+    {
+        "date": "11 апреля 02:00",
+        "first_command": "Коламбус Блю Джекетс",
+        "pfc": "/assets/images/37/37afb3_1286.png",
+        "prediction": "Победа 2 (1.72) ",
+        "psc": "/assets/images/90/90da3c_1273.png",
+        "second_command": "Тампа Бэй Лайтнинг",
+        "tags": "Турнир:#Хоккей.NHL"
+    },
+    {
+        "date": "11 апреля 04:30",
+        "first_command": "Даллас Старз",
+        "pfc": "/assets/images/7d/7d3720_1289.png",
+        "prediction": "Победа 2 (2.08) ",
+        "psc": "/assets/images/55/552340_1288.png",
+        "second_command": "Нэшвилл Предаторз",
+        "tags": "Турнир:#Хоккей.NHL"
+    }
+]
